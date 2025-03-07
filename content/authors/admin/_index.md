@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Molecular Biologist Scientist
+role: Research Scientist  Analyst  Biotech Editor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -51,12 +51,12 @@ interests:
   - Synthetic Biology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biology
+    institution: IMPRS PhD Program & University of Freiburg
+    date_start: 2018-09-01
+    date_end: 2025-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in cancer cell signaling. Supervised by [Prof Dr Marc Timmers](https://dktk.dkfz.de/en/research/dktk-researchers/timmers-group). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
