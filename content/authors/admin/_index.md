@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Timothy En Haw Chan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Timothy En Haw
+last_name: Chan
 
 # Status emoji
 status:
@@ -20,36 +20,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Molecular Biologist Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Max Planck Insitute of Immunobiology and Epigenetics
+    url: https://www.ie-freiburg.mpg.de/person/95279/2342
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:timothykoala@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/timothykoala
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/timothykoala
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/timothychaneh
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=Z_-9Np8AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2456-9336
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Epigenetics
+  - Cancer Biology
+  - Signaling Transduction
+  - Synthetic Biology
 
 education:
   - area: PhD Artificial Intelligence
